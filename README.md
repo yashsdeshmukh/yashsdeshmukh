@@ -3,7 +3,7 @@
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{yashdeshmukh}/count.svg) -->
 ![](https://komarev.com/ghpvc/?username=yashsdeshmukh&color=blueviolet)
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsdeshmukh)](https://github.com/anuraghazra/github-readme-stats)
+[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsdeshmukh&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ```java
 class ReadMe{
