@@ -7,9 +7,6 @@
 
 ```java
 class ReadMe{
-    public String getInterests(){
-        return "Loves Microservices, System design, Cloud and BlockChain";
-    }
     public String getHobbies(){
         return "Cycling, Music, Comedy";
     }
@@ -24,7 +21,6 @@ class ReadMe{
     }
     public static void main(String args[]){
         ReadMe Yash = new ReadMe();
-        Yash.getInterests();
         Yash.getHobbies();
         Yash.isFunToWorkWith();
         Yash.getCareerGoal();
