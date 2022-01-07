@@ -1,5 +1,10 @@
 <img src="https://pbs.twimg.com/profile_banners/911518383757291520/1628183276/1500x500" alt="Welcome!" width="100%"/>
 
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{yashdeshmukh}/count.svg) -->
+![](https://komarev.com/ghpvc/?username=yashsdeshmukh&color=blueviolet)
+
+![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashdeshmukh&show_icons=true&count_private=true&theme=chartreuse-dark)
+
 ```java
 class ReadMe{
     public String getInterests(){
