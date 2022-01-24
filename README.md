@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Welcome!" width="100%"/>
+<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Welcome!" width="40%"/>
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{yashdeshmukh}/count.svg) -->
 ![](https://komarev.com/ghpvc/?username=yashsdeshmukh&color=blueviolet)
