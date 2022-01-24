@@ -1,9 +1,9 @@
-<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Welcome!" width="40%"/>
-
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{yashdeshmukh}/count.svg) -->
 ![](https://komarev.com/ghpvc/?username=yashsdeshmukh&color=blueviolet)
 
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsdeshmukh&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://innov8tiv.com/wp-content/uploads/2015/02/life-of-programmer-9.gif" alt="Welcome!" width="100%"/>
+
+<!-- [![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashsdeshmukh&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ```java
 class ReadMe{
